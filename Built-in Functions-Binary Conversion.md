@@ -16,5 +16,7 @@ print(z)
 ```
 
 ## Output
+![Screenshot 2025-05-01 140237](https://github.com/user-attachments/assets/6b491aff-66c0-486d-b148-8ca14af85fac)
 
 ## Result
+Thus, the python program was executed successfully
